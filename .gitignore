@@ -1,0 +1,7 @@
+.venv/
+.streamlit/auth.sqlite3
+.streamlit/auth.sqlite3-shm
+.streamlit/auth.sqlite3-wal
+.backup/
+__pycache__/
+*.py[cod]
